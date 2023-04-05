@@ -1,0 +1,9 @@
+    1  cd onedrive
+    2  cd desktop
+    3  cd fintech_workspace
+    4  ls
+    5  cd loan_qualifier_app
+    6  cd module_2_challenge
+    7  python app.py
+    8  history 50 > terminal_history.txt
+    9  history 50 > terminal_history.txt
