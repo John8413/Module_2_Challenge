@@ -20,11 +20,10 @@ In this section, you should include detailed installation notes containing code 
 
 To install this correctly, work prior must be done. These images should explain.
 
-![The much needed pathways to have before finishing the app.py.](../../screenshots/pathways.png)
+![The much needed pathways to have before finishing the app.py.](../../loan_qualifier_app\Module_2_Challenge\screenshots\pathways.png)
 
-![The data csv is key and will provide the much needed infromation.](../../screenshots/data.png)
-
-![This is the final results.]("C:\Users\nguye\OneDrive\Desktop\FinTech_Workspace\screenshots\finish_script.png")
+![The data csv is key and will provide the much needed infromation.](../../loan_qualifier_app\Module_2_Challenge\screenshots\data.png)
+![This is the final results.](../../loan_qualifier_app\Module_2_Challenge\screenshots\finish_script.png)
 ---
 
 ## Usage
@@ -36,7 +35,8 @@ Then the script will ask the user for the data sheet pathway. The user should ty
 The the user has to answers the questions being asked.
 Finally the the script will ask to save the qualifying loan.
 
-![How the app works.]("C:\Users\nguye\OneDrive\Desktop\FinTech_Workspace\screenshots\finish_script.png")
+![How the app works.](../../loan_qualifier_app\Module_2_Challenge\screenshots\finish_script.png)
+---
 ---
 
 ## Contributors
