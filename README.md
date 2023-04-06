@@ -20,9 +20,9 @@ In this section, you should include detailed installation notes containing code 
 
 To install this correctly, work prior must be done. These images should explain.
 
-![The much needed pathways to have before finishing the app.py.]("C:\Users\nguye\OneDrive\Desktop\FinTech_Workspace\screenshots\pathways.png")
+![The much needed pathways to have before finishing the app.py.](../../screenshots/pathways.png)
 
-![The data csv is key and will provide the much needed infromation.]("C:\Users\nguye\OneDrive\Desktop\FinTech_Workspace\screenshots\data.png")
+![The data csv is key and will provide the much needed infromation.](../../screenshots/data.png)
 
 ![This is the final results.]("C:\Users\nguye\OneDrive\Desktop\FinTech_Workspace\screenshots\finish_script.png")
 ---
