@@ -20,7 +20,7 @@ In this section, you should include detailed installation notes containing code 
 
 To install this correctly, work prior must be done. These images should explain.
 
-![The much needed pathways to have before finishing the app.py.] (../../loan_qualifier_app\Module_2_Challenge\screenshots\pathways.png)
+![The much needed pathways to have before finishing the app.py.](../../loan_qualifier_app/Module_2_Challenge/screenshots/pathways.png)
 
 ![The data csv is key and will provide the much needed infromation.](../../loan_qualifier_app\Module_2_Challenge\screenshots\data.png)
 ![This is the final results.](../../loan_qualifier_app\Module_2_Challenge\screenshots\finish_script.png)
