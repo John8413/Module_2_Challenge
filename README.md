@@ -23,7 +23,7 @@ To install this correctly, work prior must be done. These images should explain.
 ![The much needed pathways to have before finishing the app.py.](/screenshots/pathways.png)
 
 ![The data csv is key and will provide the much needed infromation.](/screenshots/data.png)
-![This is the final results.](/finish_script.png)
+![This is the final results.](/screenshots/finish_script.png)
 ---
 
 ## Usage
@@ -35,7 +35,7 @@ Then the script will ask the user for the data sheet pathway. The user should ty
 The the user has to answers the questions being asked.
 Finally the the script will ask to save the qualifying loan.
 
-![How the app works.](/finish_script.png)
+![How the app works.](/screenshots/finish_script.png)
 
 ## Contributors
 
